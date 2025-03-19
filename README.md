@@ -1,4 +1,4 @@
-# Projects
+# Fairness in profile steering
 
-This folders contains all the projects about energy optimization i worked with until now.
+This project aimed to define and evaluate fairness in profile steering. Profile steering is a demand side managment technique used to perform peak shaving.
 
